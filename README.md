@@ -2,32 +2,45 @@
 
 # Portfolio Website
 
-Welcome to my portfolio website! This project showcases my work as a web developer and provides information about my skills and experiences.
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [File Structure](#file-structure)
-- [License](#license)
+This is a personal portfolio website created to showcase my work, skills, and experience as a web developer. The website includes the following sections: Home, About, and Contact. It is designed using HTML, CSS, JavaScript, and Bootstrap, with some added Font Awesome icons for social media links.
 
 ## Features
 
-- **Responsive Design**: The website is fully responsive and looks great on various devices.
-- **Navigation Bar**: Includes a navbar for easy access to different sections (Home, About, Contact).
-- **Contact Form**: A functional contact form for potential clients to get in touch.
-- **Skill Highlights**: An "About Me" section detailing my skills and experiences.
+- **Responsive Design**: The website is fully responsive and adapts to different screen sizes.
+- **Sections**:
+  - **Home**: Welcoming section with an introduction to the developer.
+  - **About**: A section describing the developer's skills, background, and experience.
+  - **Contact**: A form where users can send messages, with social media links provided for additional contact options.
+- **Social Media Integration**: Links to the developer's Facebook, Instagram, and LinkedIn profiles using Font Awesome icons.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- Bootstrap (v5.3.0)
-- Font Awesome for icons
+- **HTML5**: The website is structured using semantic HTML.
+- **CSS3**: Styles are defined for the layout, typography, and visuals.
+- **Bootstrap 5**: The site uses Bootstrap's grid system, buttons, and other components for a responsive layout.
+- **Font Awesome**: Icons are used to display social media links.
 
-## How to Use
+## Usage
+- **Home Page**: This page welcomes visitors with a brief introduction.
+- **About Page**: Visitors can learn more about the developer's skills and background.
+- **Contact Page**: This section includes a contact form where visitors can send a message.
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+## Download Bootstrap Locally
+
+If you want to work offline or ensure faster load times, you can download Bootstrap and include it locally:
+
+1. Download Bootstrap from the [official Bootstrap website](https://getbootstrap.com/docs/5.3/getting-started/download/).
+
+2. Extract the files and place them in a `css` and `js` folder within your project directory.
+
+3. Update your HTML files to use the local Bootstrap CSS and JavaScript:
+
+   ```html
+   <link rel="stylesheet" href="./css/bootstrap.min.css">
+   <script src="./js/bootstrap.bundle.min.js"></script>
+
+## Lisense:
+
+MIT
+
+
