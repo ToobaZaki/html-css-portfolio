@@ -2,7 +2,7 @@
 
 # Portfolio Website
 
-This is a personal portfolio website created to showcase my work, skills, and experience as a web developer. The website includes the following sections: Home, About, and Contact. It is designed using HTML, CSS, JavaScript, and Bootstrap, with some added Font Awesome icons for social media links.
+This is a a portfolio website created to showcase person's work, skills, and experience as a web developer. The website includes the following sections: Home, About, and Contact. It is designed using HTML, CSS, JavaScript, and Bootstrap, with some added Font Awesome icons for social media links.
 
 ## Features
 
